@@ -2,7 +2,7 @@
 
 Starter project/playground to get familiar with Deno
 
-To test in it's current state:
+To test in its current state:
 
 1. Clone repo
 2. Check if Deno is installed locally with `deno --version`
